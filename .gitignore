@@ -21,3 +21,5 @@ examples/**/models/
 *.tfevents.*
 config.json
 
+*.pptx
+
